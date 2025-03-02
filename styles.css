@@ -23,7 +23,7 @@
 
 @media screen and (max-width: 595px) {
     .output {
-        width: 550px;
-        height: 550px;
+        width: 350px;
+        height: 350px;
     }
 }
