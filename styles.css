@@ -20,3 +20,10 @@
     padding: 1px;
     font-size: 1.3em;
 }
+
+@media screen and (max-width: 375px) {
+    .output {
+        width: 350px;
+        height: 350px;
+    }
+}
