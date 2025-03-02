@@ -1,6 +1,6 @@
 .output {
-    width: 500px;
-    height: 500px;
+    width: 350px;
+    height: 350px;
     border: 1px solid black;
     margin: 10% auto;
     text-align: center;
@@ -19,11 +19,4 @@
     text-align: center;
     padding: 1px;
     font-size: 1.3em;
-}
-
-@media screen and (max-width: 595px) {
-    .output {
-        width: 350px;
-        height: 350px;
-    }
 }

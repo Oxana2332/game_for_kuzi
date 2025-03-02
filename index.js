@@ -24,8 +24,8 @@ function addBox() {
 	message.textContent = 'Click it...';
 	game.start = new Date().getTime();
 	box.style.display = 'block';
-	box.style.left = random(450) + 'px';
-	box.style.top = random(450) + 'px';
+	box.style.left = random(300) + 'px';
+	box.style.top = random(300) + 'px';
 }
 
 function random(max) {
