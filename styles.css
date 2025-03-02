@@ -21,9 +21,9 @@
     font-size: 1.3em;
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 595px) {
     .output {
-        width: 350px;
-        height: 350px;
+        width: 550px;
+        height: 550px;
     }
 }
